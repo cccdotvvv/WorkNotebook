@@ -1,0 +1,1 @@
+`ish shell`使用的是`alphine linux`系统。
