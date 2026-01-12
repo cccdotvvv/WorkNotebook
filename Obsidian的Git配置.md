@@ -1,8 +1,8 @@
-`obsidian`可以使用`control + P`来打开命令行，`git`插件具有大部分可用的操作。
+obsidian 可以使用`control + P`来打开命令行，`git`插件具有大部分可用的操作。
 
 # 1.  windows端
 
-先使用`git bash`将远端的仓库拉取到本地，然后使用 obsidian 打开目标文件夹然后正常使用 git 插件进行操作即可。
+先使用 git bash 将远端的仓库拉取到本地，然后使用 obsidian 打开目标文件夹然后正常使用 git 插件进行操作即可。
 
 # 2. ios端
 
